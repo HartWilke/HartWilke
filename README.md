@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at hart.wilke#gmail.com. 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 69-year-old learning programming for the firt time. 
 
 <!---
 HartWilke/HartWilke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
